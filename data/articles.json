@@ -1,192 +1,161 @@
 
-{
-  "articles": [
-    {
-      "id": "everwyn",
-      "title": "Everwyn",
-      "category": "Geography",
-      "tags": [
-        "world",
-        "continent",
-        "geography",
-        "civilization",
-        "kingdoms",
-        "regions"
-      ],
-      "summary": "An overview of Everwyn, its geography, regions, and the civilizations that inhabit the known world.",
-      "content": [
-        {
-          "heading": "Overview",
-          "body": "Everwyn is the known world, encompassing the lands, kingdoms, and territories inhabited by its many peoples. Its history and geography have shaped the rise and fall of civilizations, the formation of political powers, and the spread of religious traditions."
-        },
-        {
-          "heading": "Geography",
-          "body": "The lands of Everwyn are divided into distinct regions, each with its own landscapes, settlements, and resources. Mountains, forests, rivers, and fertile territories influence the boundaries and relationships between neighboring kingdoms."
-        },
-        {
-          "heading": "Political Divisions",
-          "body": "Everwyn is home to numerous kingdoms and factions, each pursuing its own interests and ambitions. Their relationships are shaped by territorial disputes, alliances, inherited authority, and the influence of the Council of the Seven."
-        }
-      ],
-      "related": [
-        "the-first-king",
-        "council-of-the-seven",
-        "kingdoms-and-factions"
-      ]
-    },
-    {
-      "id": "the-divine-order",
-      "title": "The Divine Order",
-      "category": "Religion",
-      "tags": [
-        "religion",
-        "gods",
-        "deities",
-        "divinity",
-        "worship",
-        "divine authority",
-        "creation",
-        "deicide"
-      ],
-      "summary": "The divine hierarchy governing the relationship between the gods, the mortal world, and the forces that shape existence.",
-      "content": [
-        {
-          "heading": "Overview",
-          "body": "The Divine Order is the established structure of divine authority and the relationship between the gods and the world of mortals. Its existence influences religious institutions, cultural traditions, and the understanding of power throughout Everwyn."
-        },
-        {
-          "heading": "Divine Authority",
-          "body": "The gods occupy positions of extraordinary authority within the established order. Their influence extends beyond worship, shaping the beliefs, customs, and institutions of mortal civilizations."
-        },
-        {
-          "heading": "The Nature of Divinity",
-          "body": "The nature and limitations of divine power remain subjects of religious and philosophical debate. Questions surrounding the mortality, legitimacy, and succession of the gods challenge the assumptions upon which the Divine Order rests."
-        },
-        {
-          "heading": "The Threat of Deicide",
-          "body": "The possibility of killing a god represents a fundamental challenge to the established divine hierarchy. Any attempt to destroy or replace a deity threatens not only religious institutions, but the balance of power between the divine and mortal worlds."
-        }
-      ],
-      "related": [
-        "the-first-king",
-        "council-of-the-seven"
-      ]
-    },
-    {
-      "id": "the-first-king",
-      "title": "The First King",
-      "category": "History",
-      "tags": [
-        "history",
-        "monarchy",
-        "kingship",
-        "royalty",
-        "founding",
-        "civilization",
-        "divine authority",
-        "legacy"
-      ],
-      "summary": "The historical figure credited with establishing the first great monarchy and shaping the foundations of political authority in Everwyn.",
-      "content": [
-        {
-          "heading": "Overview",
-          "body": "The First King is a foundational figure in the recorded history of Everwyn. Remembered for establishing an early model of centralized rule, his reign represents a turning point in the development of monarchy and organized political authority."
-        },
-        {
-          "heading": "The Founding of the Monarchy",
-          "body": "The emergence of the first monarchy transformed the political landscape of Everwyn. The consolidation of territories under a single ruler established precedents for governance, succession, and the relationship between rulers and their subjects."
-        },
-        {
-          "heading": "Legacy",
-          "body": "The First King's legacy continues to influence the traditions and institutions of later kingdoms. His reign remains an important reference point in discussions of legitimate rule, inherited authority, and the historical origins of political power."
-        }
-      ],
-      "related": [
-        "everwyn",
-        "the-divine-order",
-        "kingdoms-and-factions",
-        "council-of-the-seven"
-      ]
-    },
-    {
-      "id": "council-of-the-seven",
-      "title": "Council of the Seven",
-      "category": "Politics",
-      "tags": [
-        "politics",
-        "government",
-        "council",
-        "leadership",
-        "authority",
-        "governance",
-        "power",
-        "seven"
-      ],
-      "summary": "A powerful political institution whose seven members hold influence over the governance and affairs of Everwyn.",
-      "content": [
-        {
-          "heading": "Overview",
-          "body": "The Council of the Seven is a political institution associated with the distribution and exercise of authority throughout Everwyn. Its seven members represent a concentrated source of influence, shaping decisions that affect kingdoms, factions, and the wider political landscape."
-        },
-        {
-          "heading": "Structure",
-          "body": "As its name suggests, the Council consists of seven positions of authority. The identities, responsibilities, and means of appointment of its members are central to understanding its political structure."
-        },
-        {
-          "heading": "Political Influence",
-          "body": "The Council's influence extends into the affairs of individual kingdoms and competing factions. Its decisions and internal interests may determine alliances, disputes, and the distribution of power."
-        },
-        {
-          "heading": "Relationship with the Divine",
-          "body": "The relationship between political authority and the Divine Order raises important questions about the legitimacy of mortal rule. The extent to which the Council recognizes, challenges, or depends upon divine authority remains significant to the political history of Everwyn."
-        }
-      ],
-      "related": [
-        "everwyn",
-        "the-divine-order",
-        "the-first-king",
-        "kingdoms-and-factions"
-      ]
-    },
-    {
-      "id": "kingdoms-and-factions",
-      "title": "Kingdoms and Factions",
-      "category": "Politics",
-      "tags": [
-        "politics",
-        "kingdoms",
-        "factions",
-        "nations",
-        "territory",
-        "alliances",
-        "conflict",
-        "governance",
-        "diplomacy"
-      ],
-      "summary": "An overview of the sovereign kingdoms, political factions, and competing organizations that shape the balance of power in Everwyn.",
-      "content": [
-        {
-          "heading": "Overview",
-          "body": "The political landscape of Everwyn is shaped by a collection of kingdoms, factions, and independent powers. Each maintains its own interests, traditions, and ambitions, contributing to an intricate network of alliances, rivalries, and competing claims to authority."
-        },
-        {
-          "heading": "Kingdoms",
-          "body": "The kingdoms of Everwyn represent established territorial powers with distinct systems of governance, leadership, and cultural identity. Their relationships are influenced by borders, resources, historical grievances, and competing ambitions."
-        },
-        {
-          "heading": "Factions",
-          "body": "Political and influential factions operate both within and beyond the boundaries of individual kingdoms. Their interests may align with established authorities or challenge existing institutions, allowing them to influence events beyond their formal territories."
-        },
-        {
-          "heading": "Balance of Power",
-          "body": "The relationship between kingdoms and factions determines much of Everwyn's political stability. The Council of the Seven and the legacy of the First King provide important historical and institutional context for understanding the present distribution of power."
-        }
-      ],
-      "related": [
-        "everwyn",
-        "the-first-king",
-        "council-of-the-seven"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "everwyn",
+    "title": "Everwyn",
+    "category": "Geography",
+    "tags": ["world", "geography", "regions", "civilization", "kingdoms", "territory"],
+    "summary": "An overview of Everwyn, its geography, regions, and the civilizations that inhabit the known world.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Everwyn is the known world, encompassing the lands, kingdoms, and territories inhabited by its many peoples. Its history and geography have shaped the rise and fall of civilizations, the formation of political powers, and the spread of religious traditions."
+        ]
+      },
+      {
+        "heading": "Geography",
+        "paragraphs": [
+          "The lands of Everwyn are divided into distinct regions, each with its own landscapes, settlements, and resources. Mountains, forests, rivers, and fertile territories influence the boundaries and relationships between neighboring kingdoms."
+        ]
+      },
+      {
+        "heading": "Political Divisions",
+        "paragraphs": [
+          "Everwyn is home to numerous kingdoms and factions, each pursuing its own interests and ambitions. Their relationships are shaped by territorial disputes, alliances, inherited authority, and the influence of the Council of the Seven."
+        ]
+      }
+    ],
+    "related": ["the-first-king", "council-of-the-seven", "kingdoms-and-factions"]
+  },
+  {
+    "id": "the-divine-order",
+    "title": "The Divine Order",
+    "category": "Religion",
+    "tags": ["religion", "gods", "deities", "divinity", "worship", "divine authority", "creation", "deicide"],
+    "summary": "The divine hierarchy governing the relationship between the gods, the mortal world, and the forces that shape existence.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "The Divine Order is the established structure of divine authority and the relationship between the gods and the world of mortals. Its existence influences religious institutions, cultural traditions, and the understanding of power throughout Everwyn."
+        ]
+      },
+      {
+        "heading": "Divine Authority",
+        "paragraphs": [
+          "The gods occupy positions of extraordinary authority within the established order. Their influence extends beyond worship, shaping the beliefs, customs, and institutions of mortal civilizations."
+        ]
+      },
+      {
+        "heading": "The Nature of Divinity",
+        "paragraphs": [
+          "The nature and limitations of divine power remain subjects of religious and philosophical debate. Questions surrounding the mortality, legitimacy, and succession of the gods challenge the assumptions upon which the Divine Order rests."
+        ]
+      },
+      {
+        "heading": "The Threat of Deicide",
+        "paragraphs": [
+          "The possibility of killing a god represents a fundamental challenge to the established divine hierarchy. Any attempt to destroy or replace a deity threatens not only religious institutions, but the balance of power between the divine and mortal worlds."
+        ]
+      }
+    ],
+    "related": ["the-first-king", "council-of-the-seven"]
+  },
+  {
+    "id": "the-first-king",
+    "title": "The First King",
+    "category": "History",
+    "tags": ["history", "monarchy", "kingship", "royalty", "founding", "civilization", "divine authority", "legacy"],
+    "summary": "The historical figure credited with establishing the first great monarchy and shaping the foundations of political authority in Everwyn.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "The First King is a foundational figure in the recorded history of Everwyn. Remembered for establishing an early model of centralized rule, his reign represents a turning point in the development of monarchy and organized political authority."
+        ]
+      },
+      {
+        "heading": "The Founding of the Monarchy",
+        "paragraphs": [
+          "The emergence of the first monarchy transformed the political landscape of Everwyn. The consolidation of territories under a single ruler established precedents for governance, succession, and the relationship between rulers and their subjects."
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "The First King's legacy continues to influence the traditions and institutions of later kingdoms. His reign remains an important reference point in discussions of legitimate rule, inherited authority, and the historical origins of political power."
+        ]
+      }
+    ],
+    "related": ["everwyn", "the-divine-order", "kingdoms-and-factions", "council-of-the-seven"]
+  },
+  {
+    "id": "council-of-the-seven",
+    "title": "Council of the Seven",
+    "category": "Politics",
+    "tags": ["politics", "government", "council", "leadership", "authority", "governance", "power", "seven"],
+    "summary": "A powerful political institution whose seven members hold influence over the governance and affairs of Everwyn.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "The Council of the Seven is a political institution associated with the distribution and exercise of authority throughout Everwyn. Its seven members represent a concentrated source of influence, shaping decisions that affect kingdoms, factions, and the wider political landscape."
+        ]
+      },
+      {
+        "heading": "Structure",
+        "paragraphs": [
+          "As its name suggests, the Council consists of seven positions of authority. The identities, responsibilities, and means of appointment of its members are central to understanding its political structure."
+        ]
+      },
+      {
+        "heading": "Political Influence",
+        "paragraphs": [
+          "The Council's influence extends into the affairs of individual kingdoms and competing factions. Its decisions and internal interests may determine alliances, disputes, and the distribution of power."
+        ]
+      },
+      {
+        "heading": "Relationship with the Divine",
+        "paragraphs": [
+          "The relationship between political authority and the Divine Order raises important questions about the legitimacy of mortal rule. The extent to which the Council recognizes, challenges, or depends upon divine authority remains significant to the political history of Everwyn."
+        ]
+      }
+    ],
+    "related": ["everwyn", "the-divine-order", "the-first-king", "kingdoms-and-factions"]
+  },
+  {
+    "id": "kingdoms-and-factions",
+    "title": "Kingdoms and Factions",
+    "category": "Politics",
+    "tags": ["politics", "kingdoms", "factions", "nations", "territory", "alliances", "conflict", "governance", "diplomacy"],
+    "summary": "An overview of the sovereign kingdoms, political factions, and competing organizations that shape the balance of power in Everwyn.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "The political landscape of Everwyn is shaped by a collection of kingdoms, factions, and independent powers. Each maintains its own interests, traditions, and ambitions, contributing to an intricate network of alliances, rivalries, and competing claims to authority."
+        ]
+      },
+      {
+        "heading": "Kingdoms",
+        "paragraphs": [
+          "The kingdoms of Everwyn represent established territorial powers with distinct systems of governance, leadership, and cultural identity. Their relationships are influenced by borders, resources, historical grievances, and competing ambitions."
+        ]
+      },
+      {
+        "heading": "Factions",
+        "paragraphs": [
+          "Political and influential factions operate both within and beyond the boundaries of individual kingdoms. Their interests may align with established authorities or challenge existing institutions, allowing them to influence events beyond their formal territories."
+        ]
+      },
+      {
+        "heading": "Balance of Power",
+        "paragraphs": [
+          "The relationship between kingdoms and factions determines much of Everwyn's political stability. The Council of the Seven and the legacy of the First King provide important historical and institutional context for understanding the present distribution of power."
+        ]
+      }
+    ],
+    "related": ["everwyn", "the-first-king", "council-of-the-seven"]
+  }
+]

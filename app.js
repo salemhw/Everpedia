@@ -97,14 +97,15 @@
     $("related-list").innerHTML = related.map(item => `<li>${articleLink(item.id)}</li>`).join("") || "<li>No related articles yet.</li>";
     window.scrollTo(0, 0);
   }
-
   
 function renderCategory(name) {
-  const items = state.articles.filter(a => a.category.toLowerCase() === name.toLowerCase());
+  const items = state.articles.filter(
+    a => (a.category || "").toLowerCase() === name.toLowerCase()
+  );
 
   if (name.toLowerCase() === "history") {
     items.sort((a, b) => {
-      const getStartYear = (article) => {
+      const getStartYear = article => {
         const match = article.title.match(/\((\d+)\s*[–—-]/);
         return match ? Number(match[1]) : Infinity;
       };
@@ -118,7 +119,9 @@ function renderCategory(name) {
   setView("category-view");
   $("crumb-current").textContent = name.toUpperCase();
   $("category-title").textContent = name;
-  $("category-description").textContent = `${items.length} ${items.length === 1 ? "article" : "articles"} in this category.`;
+  $("category-description").textContent =
+    `${items.length} ${items.length === 1 ? "article" : "articles"} in this category.`;
+
   renderArticleList(items, $("category-articles"));
   window.scrollTo(0, 0);
 }

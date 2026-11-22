@@ -1,4 +1,115 @@
-
+{
+  "id": "argentum",
+  "title": "Argentum",
+  "category": "The Seven Regions",
+  "tags": ["region", "geography", "argentum"],
+  "summary": "An overview of Argentum, one of the Seven Regions of Everwyn.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Argentum is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+      ]
+    }
+  ],
+  "related": ["everwyn", "the-seven-regions"]
+},
+{
+  "id": "aurun",
+  "title": "Aurun",
+  "category": "The Seven Regions",
+  "tags": ["region", "geography", "aurun"],
+  "summary": "An overview of Aurun, one of the Seven Regions of Everwyn.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Aurun is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+      ]
+    }
+  ],
+  "related": ["everwyn", "the-seven-regions"]
+},
+{
+  "id": "cupri",
+  "title": "Cupri",
+  "category": "The Seven Regions",
+  "tags": ["region", "geography", "cupri"],
+  "summary": "An overview of Cupri, one of the Seven Regions of Everwyn.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Cupri is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+      ]
+    }
+  ],
+  "related": ["everwyn", "the-seven-regions"]
+},
+{
+  "id": "galena",
+  "title": "Galena",
+  "category": "The Seven Regions",
+  "tags": ["region", "geography", "galena"],
+  "summary": "An overview of Galena, one of the Seven Regions of Everwyn.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Galena is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+      ]
+    }
+  ],
+  "related": ["everwyn", "the-seven-regions"]
+},
+{
+  "id": "ferron",
+  "title": "Ferron",
+  "category": "The Seven Regions",
+  "tags": ["region", "geography", "ferron"],
+  "summary": "An overview of Ferron, one of the Seven Regions of Everwyn.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Ferron is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+      ]
+    }
+  ],
+  "related": ["everwyn", "the-seven-regions"]
+},
+{
+  "id": "mercurium",
+  "title": "Mercurium",
+  "category": "The Seven Regions",
+  "tags": ["region", "geography", "mercurium"],
+  "summary": "An overview of Mercurium, one of the Seven Regions of Everwyn.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Mercurium is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+      ]
+    }
+  ],
+  "related": ["everwyn", "the-seven-regions"]
+},
+{
+  "id": "plata",
+  "title": "Plata",
+  "category": "The Seven Regions",
+  "tags": ["region", "geography", "plata"],
+  "summary": "An overview of Plata, one of the Seven Regions of Everwyn.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Plata is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+      ]
+    }
+  ],
+  "related": ["everwyn", "the-seven-regions"]
+}
 [
   {
     "id": "everwyn",

@@ -98,25 +98,60 @@
     window.scrollTo(0, 0);
   }
   
+
 function renderCategory(name) {
-  const items = state.articles.filter(
-    a => (a.category || "").toLowerCase() === name.toLowerCase()
+  const categoryName = name.trim().toLowerCase();
+
+  const items = state.articles.filter(article =>
+    (article.category || "").trim().toLowerCase() === categoryName
   );
+  console.table(items.map(article => ({
+  title: article.title,
+  category: article.category,
+  startYear: article.startYear
+})));
 
-  if (name.toLowerCase() === "history") {
+  if (categoryName === "history") {
+    // Extract the starting year from the article title.
+    // Example: "The First Reign (0–78)" returns 0.
+    // Example: "The Age of Fracture (200–225)" returns 200.
+    const getStartYear = article => {
+      const title = article.title || "";
+
+      // First, use the explicit numeric startYear if available.
+      if (
+        article.startYear !== undefined &&
+        article.startYear !== null &&
+        article.startYear !== "" &&
+        Number.isFinite(Number(article.startYear))
+      ) {
+        return Number(article.startYear);
+      }
+
+      // Otherwise, extract the year from the title.
+      const match = title.match(/\(([\d,]+)\s*[–—-]/);
+
+      if (match) {
+        return Number(match[1].replace(/,/g, ""));
+      }
+
+      return Infinity;
+    };
+
     items.sort((a, b) => {
-      const getStartYear = article => {
-        const match = article.title.match(/\((\d+)\s*[–—-]/);
-        return match ? Number(match[1]) : Infinity;
-      };
+      const yearDifference = getStartYear(a) - getStartYear(b);
 
-      return getStartYear(a) - getStartYear(b);
+      // Keep titles alphabetically ordered if years are identical.
+      return yearDifference || (a.title || "").localeCompare(b.title || "");
     });
   } else {
-    items.sort((a, b) => a.title.localeCompare(b.title));
+    items.sort((a, b) =>
+      (a.title || "").localeCompare(b.title || "")
+    );
   }
 
   setView("category-view");
+
   $("crumb-current").textContent = name.toUpperCase();
   $("category-title").textContent = name;
   $("category-description").textContent =
@@ -125,6 +160,7 @@ function renderCategory(name) {
   renderArticleList(items, $("category-articles"));
   window.scrollTo(0, 0);
 }
+
 
 
   function renderSearch(query) {

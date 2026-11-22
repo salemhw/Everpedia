@@ -1,0 +1,93 @@
+[
+  {
+    "id": "the-known-world",
+    "title": "The Known World",
+    "category": "Geography",
+    "summary": "An overview of the lands, kingdoms, and territories known to the peoples of the world.",
+    "updated": "2026-11-21",
+    "tags": [
+      "world",
+      "geography",
+      "overview"
+    ],
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "This article is a starting point for documenting the world's geography. Replace this placeholder with the campaign's established lore.",
+          "Use the links throughout the archive to connect places with the people, factions, and historical events associated with them."
+        ]
+      },
+      {
+        "heading": "Regions",
+        "paragraphs": [
+          "No regions have been formally documented yet. Add each kingdom, province, wilderness, and significant landmark as its own article."
+        ]
+      }
+    ],
+    "related": [
+      "the-divine-order",
+      "the-first-deicide"
+    ]
+  },
+  {
+    "id": "the-divine-order",
+    "title": "The Divine Order",
+    "category": "Deities",
+    "summary": "A directory for the gods, divine offices, religions, and competing claims to divinity.",
+    "updated": "2026-11-21",
+    "tags": [
+      "gods",
+      "religion",
+      "divinity"
+    ],
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "This entry is a public-facing placeholder. Add only information that characters in the world could reasonably know.",
+          "Individual deities should receive their own articles, with links to their worshippers, symbols, domains, and associated historical events."
+        ]
+      },
+      {
+        "heading": "Divine succession",
+        "paragraphs": [
+          "The question of whether a god can be replaced, overthrown, or destroyed belongs among the central theological and political questions of the setting."
+        ]
+      }
+    ],
+    "related": [
+      "the-first-deicide",
+      "the-known-world"
+    ]
+  },
+  {
+    "id": "the-first-deicide",
+    "title": "The First Deicide",
+    "category": "History",
+    "summary": "A historical entry documenting the first known killing of a deity. Its truth and consequences remain to be established.",
+    "updated": "2026-11-21",
+    "tags": [
+      "history",
+      "deicide",
+      "gods"
+    ],
+    "sections": [
+      {
+        "heading": "Historical record",
+        "paragraphs": [
+          "This is a campaign placeholder, not established canon. Decide who recorded the event, which sources survive, and whether competing accounts exist."
+        ]
+      },
+      {
+        "heading": "Legacy",
+        "paragraphs": [
+          "A deicide can reshape religion, law, political legitimacy, and the balance of supernatural power. Record the consequences that are publicly understood separately from hidden truths."
+        ]
+      }
+    ],
+    "related": [
+      "the-divine-order"
+    ]
+  }
+]

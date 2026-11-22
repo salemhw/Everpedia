@@ -99,7 +99,7 @@
   }
 
   
-function rendercategory(name) {
+function renderCategory(name) {
   const items = state.articles.filter(a => a.category.toLowerCase() === name.toLowerCase());
 
   if (name.toLowerCase() === "history") {

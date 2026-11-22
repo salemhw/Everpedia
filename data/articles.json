@@ -178,6 +178,7 @@
   "id": "the-first-reign",
   "title": "The First Reign (0–78)",
   "category": "History",
+  "startYear": 0,
   "tags": ["history", "first reign", "first king", "unification", "monarchy", "royalty"],
   "summary": "The beginning of recorded history in Everwyn, marked by the rise of the First King and the establishment of a unified kingdom.",
   "sections": [
@@ -225,6 +226,7 @@
   "id": "kingdom-of-everwyn",
   "title": "The Kingdom of Everwyn (78–200)",
   "category": "History",
+  "startYear": 78,
   "tags": ["history", "kingdom", "monarchy", "royalty", "royal succession", "academy", "trade", "infrastructure"],
   "summary": "The continuation of the unified monarchy following the First King's reign, characterized by political consolidation, economic expansion, and institutional development.",
   "sections": [
@@ -272,6 +274,7 @@
   "id": "age-of-fracture",
   "title": "The Age of Fracture (200–225)",
   "category": "History",
+  "startYear": 200,
   "tags": ["history", "age of fracture", "succession crisis", "dissolution", "sevenfold division", "treaty"],
   "summary": "The collapse of the unified Kingdom of Everwyn and the establishment of seven independent territories.",
   "sections": [
@@ -319,6 +322,7 @@
   "id": "age-of-seven-crowns",
   "title": "The Age of Seven Crowns (225–500)",
   "category": "History",
+  "startYear": 225,
   "tags": ["history", "seven crowns", "seven regions", "regional government", "diplomacy", "war", "politics"],
   "summary": "The development of the Seven Regions following the dissolution of the unified kingdom, establishing the political and cultural foundations of modern Everwyn.",
   "sections": [
@@ -360,6 +364,7 @@
   "id": "age-of-embers",
   "title": "The Age of Embers (500–Present)",
   "category": "History",
+  "startYear": 500,
   "tags": ["history", "age of embers", "modern era", "technology", "trade", "invention", "prosperity"],
   "summary": "The current historical period of Everwyn, characterized by relative peace, economic prosperity, technological advancement, and increased cooperation between the Seven Regions.",
   "sections": [

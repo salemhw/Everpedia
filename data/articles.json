@@ -33,7 +33,7 @@
   {
     "id": "the-divine-order",
     "title": "The Divine Order",
-    "category": "Deities",
+    "category": "Religion",
     "summary": "A directory for the gods, divine offices, religions, and competing claims to divinity.",
     "updated": "2026-11-21",
     "tags": [
@@ -90,4 +90,66 @@
       "the-divine-order"
     ]
   }
+  {
+    "id": "council-of-seven-houses",
+    "title": "Council of Seven Houses",
+    "category": "Government",
+    "summary": "An overview of the lands, kingdoms, and territories known to the peoples of the world.",
+    "updated": "2026-11-21",
+    "tags": [
+      "world",
+      "government",
+      "overview"
+    ],
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "This article is a starting point for documenting the world's geography. Replace this placeholder with the campaign's established lore.",
+          "Use the links throughout the archive to connect places with the people, factions, and historical events associated with them."
+        ]
+      },
+      {
+        "heading": "Regions",
+        "paragraphs": [
+          "No regions have been formally documented yet. Add each kingdom, province, wilderness, and significant landmark as its own article."
+        ]
+      }
+    ],
+    "related": [
+      "the-divine-order",
+      "the-first-deicide"
+    ]
+  }, 
+ {
+    "id": "kingdoms",
+    "title": "Kingdoms of Everwyn",
+    "category": "Government",
+    "summary": "An overview of the lands, kingdoms, and territories known to the peoples of the world.",
+    "updated": "2026-11-21",
+    "tags": [
+      "world",
+      "government",
+      "overview"
+    ],
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "This article is a starting point for documenting the world's geography. Replace this placeholder with the campaign's established lore.",
+          "Use the links throughout the archive to connect places with the people, factions, and historical events associated with them."
+        ]
+      },
+      {
+        "heading": "Regions",
+        "paragraphs": [
+          "No regions have been formally documented yet. Add each kingdom, province, wilderness, and significant landmark as its own article."
+        ]
+      }
+    ],
+    "related": [
+      "the-divine-order",
+      "the-first-deicide"
+    ]
+  },
 ]

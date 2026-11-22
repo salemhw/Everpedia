@@ -1,7 +1,7 @@
 [
   {
-    "id": "the-known-world",
-    "title": "The Known World",
+    "id": "everwyn",
+    "title": "Everwyn",
     "category": "Geography",
     "summary": "An overview of the lands, kingdoms, and territories known to the peoples of the world.",
     "updated": "2026-11-21",
@@ -58,7 +58,7 @@
     ],
     "related": [
       "the-first-deicide",
-      "the-known-world"
+      "everwyn"
     ]
   },
   {
@@ -148,7 +148,7 @@
       }
     ],
     "related": [
-      "the-divine-order",
+      "everwyn",
       "the-first-deicide"
     ]
   },

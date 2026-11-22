@@ -98,16 +98,31 @@
     window.scrollTo(0, 0);
   }
 
-  function renderCategory(name) {
-    const items = state.articles.filter(a => a.category.toLowerCase() === name.toLowerCase())
-      .sort((a, b) => a.title.localeCompare(b.title));
-    setView("category-view");
-    $("crumb-current").textContent = name.toUpperCase();
-    $("category-title").textContent = name;
-    $("category-description").textContent = `${items.length} ${items.length === 1 ? "article" : "articles"} in this category.`;
-    renderArticleList(items, $("category-articles"));
-    window.scrollTo(0, 0);
+  
+function rendercategory(name) {
+  const items = state.articles.filter(a => a.category.toLowerCase() === name.toLowerCase());
+
+  if (name.toLowerCase() === "history") {
+    items.sort((a, b) => {
+      const getStartYear = (article) => {
+        const match = article.title.match(/\((\d+)\s*[–—-]/);
+        return match ? Number(match[1]) : Infinity;
+      };
+
+      return getStartYear(a) - getStartYear(b);
+    });
+  } else {
+    items.sort((a, b) => a.title.localeCompare(b.title));
   }
+
+  setView("category-view");
+  $("crumb-current").textContent = name.toUpperCase();
+  $("category-title").textContent = name;
+  $("category-description").textContent = `${items.length} ${items.length === 1 ? "article" : "articles"} in this category.`;
+  renderArticleList(items, $("category-articles"));
+  window.scrollTo(0, 0);
+}
+
 
   function renderSearch(query) {
     const q = query.trim().toLowerCase();

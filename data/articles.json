@@ -173,100 +173,228 @@
     ],
     "related": ["the-first-king", "council-of-the-seven"]
   },
-  {
-    "id": "the-first-king",
-    "title": "The First King",
-    "category": "History",
-    "tags": ["history", "monarchy", "kingship", "royalty", "founding", "civilization", "divine authority", "legacy"],
-    "summary": "The historical figure credited with establishing the first great monarchy and shaping the foundations of political authority in Everwyn.",
-    "sections": [
-      {
-        "heading": "Overview",
-        "paragraphs": [
-          "The First King is a foundational figure in the recorded history of Everwyn. Remembered for establishing an early model of centralized rule, his reign represents a turning point in the development of monarchy and organized political authority."
-        ]
-      },
-      {
-        "heading": "The Founding of the Monarchy",
-        "paragraphs": [
-          "The emergence of the first monarchy transformed the political landscape of Everwyn. The consolidation of territories under a single ruler established precedents for governance, succession, and the relationship between rulers and their subjects."
-        ]
-      },
-      {
-        "heading": "Legacy",
-        "paragraphs": [
-          "The First King's legacy continues to influence the traditions and institutions of later kingdoms. His reign remains an important reference point in discussions of legitimate rule, inherited authority, and the historical origins of political power."
-        ]
-      }
-    ],
-    "related": ["everwyn", "the-divine-order", "kingdoms-and-factions", "council-of-the-seven"]
-  },
-  {
-    "id": "council-of-the-seven",
-    "title": "Council of the Seven",
-    "category": "Politics",
-    "tags": ["politics", "government", "council", "leadership", "authority", "governance", "power", "seven"],
-    "summary": "A powerful political institution whose seven members hold influence over the governance and affairs of Everwyn.",
-    "sections": [
-      {
-        "heading": "Overview",
-        "paragraphs": [
-          "The Council of the Seven is a political institution associated with the distribution and exercise of authority throughout Everwyn. Its seven members represent a concentrated source of influence, shaping decisions that affect kingdoms, factions, and the wider political landscape."
-        ]
-      },
-      {
-        "heading": "Structure",
-        "paragraphs": [
-          "As its name suggests, the Council consists of seven positions of authority. The identities, responsibilities, and means of appointment of its members are central to understanding its political structure."
-        ]
-      },
-      {
-        "heading": "Political Influence",
-        "paragraphs": [
-          "The Council's influence extends into the affairs of individual kingdoms and competing factions. Its decisions and internal interests may determine alliances, disputes, and the distribution of power."
-        ]
-      },
-      {
-        "heading": "Relationship with the Divine",
-        "paragraphs": [
-          "The relationship between political authority and the Divine Order raises important questions about the legitimacy of mortal rule. The extent to which the Council recognizes, challenges, or depends upon divine authority remains significant to the political history of Everwyn."
-        ]
-      }
-    ],
-    "related": ["everwyn", "the-divine-order", "the-first-king", "kingdoms-and-factions"]
-  },
-  {
-    "id": "kingdoms-and-factions",
-    "title": "Kingdoms and Factions",
-    "category": "Politics",
-    "tags": ["politics", "kingdoms", "factions", "nations", "territory", "alliances", "conflict", "governance", "diplomacy"],
-    "summary": "An overview of the sovereign kingdoms, political factions, and competing organizations that shape the balance of power in Everwyn.",
-    "sections": [
-      {
-        "heading": "Overview",
-        "paragraphs": [
-          "The political landscape of Everwyn is shaped by a collection of kingdoms, factions, and independent powers. Each maintains its own interests, traditions, and ambitions, contributing to an intricate network of alliances, rivalries, and competing claims to authority."
-        ]
-      },
-      {
-        "heading": "Kingdoms",
-        "paragraphs": [
-          "The kingdoms of Everwyn represent established territorial powers with distinct systems of governance, leadership, and cultural identity. Their relationships are influenced by borders, resources, historical grievances, and competing ambitions."
-        ]
-      },
-      {
-        "heading": "Factions",
-        "paragraphs": [
-          "Political and influential factions operate both within and beyond the boundaries of individual kingdoms. Their interests may align with established authorities or challenge existing institutions, allowing them to influence events beyond their formal territories."
-        ]
-      },
-      {
-        "heading": "Balance of Power",
-        "paragraphs": [
-          "The relationship between kingdoms and factions determines much of Everwyn's political stability. The Council of the Seven and the legacy of the First King provide important historical and institutional context for understanding the present distribution of power."
-        ]
-      }
-    ],
-    "related": ["everwyn", "the-first-king", "council-of-the-seven"]
+  
+{
+  "id": "the-first-reign",
+  "title": "The First Reign (0–78)",
+  "category": "History",
+  "tags": ["history", "first reign", "first king", "unification", "monarchy", "royalty"],
+  "summary": "The beginning of recorded history in Everwyn, marked by the rise of the First King and the establishment of a unified kingdom.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The First Reign marks the beginning of recorded history in Everwyn. During this period, the First King established his authority over the territories and brought the entirety of Everwyn under a single crown.",
+        "His reign saw the establishment of a centralized monarchy, the creation of royal institutions, and the introduction of unified laws and administrative systems."
+      ]
+    },
+    {
+      "heading": "The Rise of the First King",
+      "paragraphs": [
+        "The emergence of the first recognized monarch of Everwyn, whose military campaigns and political influence brought the territories under his authority."
+      ]
+    },
+    {
+      "heading": "The Unification of Everwyn",
+      "paragraphs": [
+        "The consolidation of the seven territories into a single kingdom under the rule of the First King, ending the period of independent regional governance."
+      ]
+    },
+    {
+      "heading": "The Royal Proclamation",
+      "paragraphs": [
+        "The formal declaration of the unified Kingdom of Everwyn, establishing the First King as its sovereign ruler and introducing the principles of centralized royal authority."
+      ]
+    },
+    {
+      "heading": "The Establishment of the Royal Court",
+      "paragraphs": [
+        "The creation of the royal administration, including the appointment of noble advisors, ministers, magistrates, and other officials responsible for governing the kingdom."
+      ]
+    },
+    {
+      "heading": "The Founding of the Capital",
+      "paragraphs": [
+        "The establishment of the kingdom's capital as the political, administrative, and cultural center of Everwyn. The city became the seat of the monarchy and the location of the royal palace."
+      ]
+    }
+  ],
+  "related": ["everwyn", "the-first-king", "kingdoms-and-factions"]
+},
+{
+  "id": "kingdom-of-everwyn",
+  "title": "The Kingdom of Everwyn (78–200)",
+  "category": "History",
+  "tags": ["history", "kingdom", "monarchy", "royalty", "royal succession", "academy", "trade", "infrastructure"],
+  "summary": "The continuation of the unified monarchy following the First King's reign, characterized by political consolidation, economic expansion, and institutional development.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Following the First King's reign, Everwyn continued under a unified monarchy. This period was characterized by political consolidation, economic expansion, and the development of institutions that would govern the kingdom for generations.",
+        "The royal government invested heavily in infrastructure, education, and commerce, connecting distant settlements and encouraging the growth of a shared national identity."
+      ]
+    },
+    {
+      "heading": "The Royal Succession",
+      "paragraphs": [
+        "The transfer of the crown following the end of the First King's reign, establishing the hereditary succession of the monarchy and ensuring the continuation of the unified kingdom."
+      ]
+    },
+    {
+      "heading": "The Expansion of the Kingdom",
+      "paragraphs": [
+        "A period of territorial and economic growth during which the monarchy extended its influence into previously undeveloped settlements and established new administrative districts throughout Everwyn."
+      ]
+    },
+    {
+      "heading": "The Establishment of the Royal Academy",
+      "paragraphs": [
+        "The founding of a prestigious institution dedicated to higher education, scholarship, magical studies, and the advancement of the arts and sciences. The academy became an important center of intellectual and cultural development."
+      ]
+    },
+    {
+      "heading": "The Great Royal Census",
+      "paragraphs": [
+        "The first comprehensive census of the kingdom's population, land, and resources. The undertaking provided the monarchy with detailed records of its territories and established a standardized system of taxation and civil administration."
+      ]
+    },
+    {
+      "heading": "The Construction of the King's Highway",
+      "paragraphs": [
+        "The development of an extensive network of roads connecting the capital to the kingdom's major settlements. The highway facilitated trade, travel, military transportation, and communication between distant territories."
+      ]
+    }
+  ],
+  "related": ["the-first-reign", "the-first-king", "everwyn"]
+},
+{
+  "id": "age-of-fracture",
+  "title": "The Age of Fracture (200–225)",
+  "category": "History",
+  "tags": ["history", "age of fracture", "succession crisis", "dissolution", "sevenfold division", "treaty"],
+  "summary": "The collapse of the unified Kingdom of Everwyn and the establishment of seven independent territories.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Age of Fracture began with the death of the First King and the subsequent destabilization of the unified monarchy. Disagreements over royal succession, regional autonomy, and political authority weakened the central government, resulting in growing tensions between the royal court and regional leadership.",
+        "Following years of political unrest, the former kingdom dissolved into seven independent territories. The period concluded with the formal recognition of the Seven Regions and the establishment of their respective governments."
+      ]
+    },
+    {
+      "heading": "The Death of the First King",
+      "paragraphs": [
+        "The death of Everwyn's founding monarch, marking the beginning of a period of political instability and uncertainty surrounding the future of the unified kingdom."
+      ]
+    },
+    {
+      "heading": "The Succession Crisis",
+      "paragraphs": [
+        "A prolonged political dispute concerning the inheritance of the royal crown. Competing claims to the throne, disagreements among the nobility, and growing regional dissatisfaction weakened the authority of the monarchy."
+      ]
+    },
+    {
+      "heading": "The Dissolution of the Royal Court",
+      "paragraphs": [
+        "The gradual collapse of the centralized royal administration as regional governors and noble houses withdrew their allegiance to the monarchy. Former royal institutions were divided, abandoned, or reorganized under emerging regional authorities."
+      ]
+    },
+    {
+      "heading": "The Sevenfold Division",
+      "paragraphs": [
+        "The formal dissolution of the Kingdom of Everwyn and the establishment of seven independent regions. Former territorial boundaries were reorganized into [[argentum]], [[aurun]], [[cupri]], [[galena]], [[ferron]], [[mercurium]], and [[plata]]."
+      ]
+    },
+    {
+      "heading": "The Treaty of Seven Crowns",
+      "paragraphs": [
+        "A diplomatic agreement recognizing the sovereignty of the Seven Regions and establishing the foundations for peaceful relations between their respective governments. The treaty addressed territorial boundaries, political recognition, and the rights of regional rulers."
+      ]
+    }
+  ],
+  "related": ["the-first-reign", "kingdom-of-everwyn", "everwyn", "argentum", "aurun", "cupri", "galena", "ferron", "mercurium", "plata"]
+},
+{
+  "id": "age-of-seven-crowns",
+  "title": "The Age of Seven Crowns (225–500)",
+  "category": "History",
+  "tags": ["history", "seven crowns", "seven regions", "regional government", "diplomacy", "war", "politics"],
+  "summary": "The development of the Seven Regions following the dissolution of the unified kingdom, establishing the political and cultural foundations of modern Everwyn.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Following the dissolution of the unified kingdom, the Seven Regions entered a period of political and cultural development. Each territory established its own government, legal institutions, and ruling authority, gradually developing the regional identities recognized throughout modern Everwyn.",
+        "Although the early centuries were marked by territorial disputes and competing political interests, the period also saw significant advancements in commerce, architecture, education, and regional diplomacy. The development of independent governments established the political foundations of contemporary Everwyn."
+      ]
+    },
+    {
+      "heading": "The Founding of the Seven Regions",
+      "paragraphs": [
+        "Following the Sevenfold Division, the former territories formally established themselves as independent regions: [[argentum]], [[aurun]], [[cupri]], [[galena]], [[ferron]], [[mercurium]], and [[plata]]. Each developed its own ruling authority, administrative institutions, and regional capital, marking the beginning of the Seven Crowns."
+      ]
+    },
+    {
+      "heading": "The War of Seven Banners",
+      "paragraphs": [
+        "A major military conflict involving several of the Seven Regions over disputed territories, political influence, and regional sovereignty. The conflict resulted in significant territorial changes and prompted renewed diplomatic negotiations between the regional governments."
+      ]
+    },
+    {
+      "heading": "The First Interregional Treaty",
+      "paragraphs": [
+        "An agreement between the Seven Regions establishing formal diplomatic relations and guidelines for international commerce, travel, and the peaceful resolution of territorial disputes. The treaty laid the foundations for long-term cooperation and international relations."
+      ]
+    },
+    {
+      "heading": "The Rise of Regional Institutions",
+      "paragraphs": [
+        "A period of significant political, economic, and cultural development during which the Seven Regions established their own educational institutions, commercial guilds, legal systems, and administrative organizations. These developments contributed to the growth of regional identities and the expansion of interregional commerce."
+      ]
+    }
+  ],
+  "related": ["age-of-fracture", "everwyn", "argentum", "aurun", "cupri", "galena", "ferron", "mercurium", "plata"]
+},
+{
+  "id": "age-of-embers",
+  "title": "The Age of Embers (500–Present)",
+  "category": "History",
+  "tags": ["history", "age of embers", "modern era", "technology", "trade", "invention", "prosperity"],
+  "summary": "The current historical period of Everwyn, characterized by relative peace, economic prosperity, technological advancement, and increased cooperation between the Seven Regions.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Age of Embers is the current historical period of Everwyn, characterized by relative peace, economic prosperity, technological advancement, and increased cooperation between the Seven Regions.",
+        "Following centuries of political consolidation and regional development, Everwyn entered an era of unprecedented cultural and commercial growth. Improvements in transportation, education, agriculture, and manufacturing contributed to the expansion of regional economies, while diplomatic agreements strengthened relationships between the independent territories."
+      ]
+    },
+    {
+      "heading": "The Long Winter",
+      "paragraphs": [
+        "An unusually severe winter that prompted the development of improved agricultural storage, heating systems, and regional emergency provisions. Its legacy contributed to greater cooperation between the regions."
+      ]
+    },
+    {
+      "heading": "The Founding of the Grand Academy",
+      "paragraphs": [
+        "The establishment of a prominent institution dedicated to scholarship, magical research, and the advancement of the arts and sciences."
+      ]
+    },
+    {
+      "heading": "The Modern Trade Accords",
+      "paragraphs": [
+        "A series of commercial agreements that standardized trade regulations, reduced tariffs, and encouraged economic cooperation between the regions."
+      ]
+    },
+    {
+      "heading": "The Era of Invention",
+      "paragraphs": [
+        "A period of rapid technological development marked by improvements in transportation, communication, manufacturing, and everyday conveniences."
+      ]
+    }
+  ],
+  "related": ["age-of-seven-crowns", "age-of-fracture", "everwyn", "argentum", "aurun", "cupri", "galena", "ferron", "mercurium", "plata"]
   }
 ]

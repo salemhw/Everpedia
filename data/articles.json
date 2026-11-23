@@ -227,9 +227,8 @@
       ]
     }
   ],
-  "related": ["everwyn", "the-first-king", "age-of-fracture"]
+  "related": ["everwyn", "the-first-king", "age-of-fracture", "age-of-seven-crowns", "age-of-embers"]
 },
-
 {
   "id": "age-of-fracture",
   "title": "The Age of Fracture (200–225)",
@@ -277,7 +276,7 @@
       ]
     }
   ],
-  "related": ["the-first-reign", "everwyn", "argentum", "aurun", "cupri", "galena", "ferron", "mercurium", "plata"]
+  "related": ["the-first-reign", "age-of-seven-crowns", "age-of-embers"]
 },
 {
   "id": "age-of-seven-crowns",
@@ -319,7 +318,7 @@
       ]
     }
   ],
-  "related": ["age-of-fracture", "everwyn", "argentum", "aurun", "cupri", "galena", "ferron", "mercurium", "plata"]
+  "related": ["the-first-reign", "age-of-fracture", "age-of-embers"]
 },
 {
   "id": "age-of-embers",
@@ -361,6 +360,6 @@
       ]
     }
   ],
-  "related": ["age-of-seven-crowns", "age-of-fracture", "everwyn", "argentum", "aurun", "cupri", "galena", "ferron", "mercurium", "plata"]
+  "related": ["the-first-reign", "age-of-fracture", "age-of-seven-crowns"]
   }
 ]

@@ -114,7 +114,7 @@
   {
     "id": "everwyn",
     "title": "Everwyn",
-    "category": "Geography",
+    "category": "The World",
     "tags": ["world", "geography", "regions", "civilization", "kingdoms", "territory"],
     "summary": "An overview of Everwyn, its geography, regions, and the civilizations that inhabit the known world.",
     "sections": [
@@ -361,5 +361,284 @@
     }
   ],
   "related": ["the-first-reign", "age-of-fracture", "age-of-seven-crowns"]
-  }
+  },
+  {
+    "id": "aurelia",
+    "title": "Aurelia",
+    "category": "The Old Powers",
+    "tags": ["deity", "goddess", "old powers", "creation", "healing", "dawn"],
+    "summary": "Aurelia, known as the Lady of Dawn, is one of the Seven Old Powers and the goddess of beginnings, creation, birth, healing, hope, and protection.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Aurelia, commonly called the Lady of Dawn, is one of the Seven Old Powers worshipped throughout Everwyn. She is associated with beginnings, creation, birth, healing, hope, and protection. Her influence is traditionally invoked at the start of important undertakings, during childbirth, and in times of recovery or renewal.",
+          "Aurelia is frequently depicted as a compassionate and benevolent deity who encourages mortals to begin again regardless of their past. Her followers regard the dawn as a daily reminder that even the longest night must eventually end."
+        ]
+      },
+      {
+        "heading": "Depictions and Symbols",
+        "paragraphs": [
+          "Aurelia is most commonly represented as a radiant woman surrounded by golden light. Artistic depictions frequently show her standing before a rising sun, sometimes holding a flowering branch or a small flame.",
+          "Her principal symbol is a golden sun rising above the horizon."
+        ]
+      },
+      {
+        "heading": "Worship and Followers",
+        "paragraphs": [
+          "Aurelia's temples are commonly found near hospitals, maternity houses, orphanages, and settlements where healing services are provided. Her clergy frequently serve as healers, caretakers, midwives, and counselors.",
+          "Common offerings include fresh flowers, warm bread, candles, and water collected at sunrise. Many communities hold small ceremonies at dawn to mark births, marriages, the beginning of planting seasons, and the founding of new settlements.",
+          "Her followers are encouraged to protect the vulnerable and offer compassion to those given a second chance."
+        ]
+      },
+      {
+        "heading": "Personality and Legends",
+        "paragraphs": [
+          "Aurelia is generally described as compassionate, optimistic, and protective. However, some accounts portray her as unwilling to accept that certain things must end. This has led to stories in which her attempts to preserve life or restore what was lost produce unintended consequences.",
+          "Several legends describe Aurelia healing a dying kingdom by restoring its first spring, while others warn of her inability to distinguish between saving someone and preventing them from accepting an inevitable end."
+        ]
+      }
+    ],
+    "related": ["morrigan", "thalen", "cova", "ordan", "aisla", "the-last-king"]
+  },
+  {
+    "id": "morrigan",
+    "title": "Morrigan",
+    "category": "The Old Powers",
+    "tags": ["deity", "goddess", "old powers", "death", "memory", "identity"],
+    "summary": "Morrigan, known as the Keeper of the Last Door, is one of the Seven Old Powers and the goddess of death, mourning, memory, identity, and the passage between life and death.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Morrigan, commonly known as the Keeper of the Last Door, is one of the Seven Old Powers. She governs death, mourning, memory, identity, and the passage between the living world and whatever lies beyond it.",
+          "Unlike deities associated with destruction or violence, Morrigan represents death as an essential part of existence. Her worshippers believe that death should be treated with dignity and that the memories of the departed deserve protection."
+        ]
+      },
+      {
+        "heading": "Depictions and Symbols",
+        "paragraphs": [
+          "Morrigan is commonly depicted as a solemn woman dressed in dark robes, carrying a lantern or standing before an ancient doorway. Some traditions portray her with silver hair and eyes resembling the night sky.",
+          "Her principal symbol is a silver key surrounded by falling feathers."
+        ]
+      },
+      {
+        "heading": "Worship and Followers",
+        "paragraphs": [
+          "Morrigan is widely worshipped by undertakers, mourners, gravekeepers, and those responsible for preserving the dead. Her temples often serve as places of mourning, recordkeeping, and remembrance.",
+          "Funeral traditions dedicated to Morrigan frequently include the recitation of the deceased's full name and the telling of important events from their life. It is considered disrespectful to bury someone without making an effort to remember who they were.",
+          "Some communities maintain memorial books in Morrigan's temples, recording the names of those who have died.",
+          "Her followers believe that a person does not entirely disappear even if their name and memory do."
+        ]
+      },
+      {
+        "heading": "Personality and Legends",
+        "paragraphs": [
+          "Morrigan is described as patient, solemn, and compassionate.",
+          "Legends frequently portray her as a quiet guide who appears to those nearing death. She is said to remember every name ever spoken, including those erased from history.",
+          "Stories about Morrigan often emphasize that she does not judge the dead. Her duty is to receive them, not determine whether they deserved to live."
+        ]
+      }
+    ],
+    "related": ["aurelia", "thalen", "cova", "ordan", "aisla", "the-last-king"]
+  },
+  {
+    "id": "thalen",
+    "title": "Thalen",
+    "category": "The Old Powers",
+    "tags": ["deity", "god", "old powers", "nature", "wilderness", "seasons"],
+    "summary": "Thalen, known as the Lord of the Wild, is one of the Seven Old Powers and the god of nature, animals, wilderness, growth, decay, and the changing seasons.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Thalen, known as the Lord of the Wild, is one of the Seven Old Powers. He governs nature, animals, wilderness, growth, decay, and the changing seasons.",
+          "Unlike deities whose worship is closely associated with organized civilization, Thalen is primarily connected with the natural world beyond settlements. Forests, mountains, rivers, and wild places are all considered expressions of his influence."
+        ]
+      },
+      {
+        "heading": "Depictions and Symbols",
+        "paragraphs": [
+          "Thalen is usually depicted as a tall, antlered figure whose appearance changes with the seasons. His skin may resemble bark, his hair may resemble leaves or moss, and his clothing is often illustrated as woven from natural materials.",
+          "His principal symbol is an antlered tree with four branches representing the four seasons."
+        ]
+      },
+      {
+        "heading": "Worship and Followers",
+        "paragraphs": [
+          "Thalen is worshipped by druids, rangers, hunters, farmers, herbalists, and communities living near forests and other wilderness areas. His shrines are often built beneath old trees, beside rivers, or near sacred natural landmarks.",
+          "His followers commonly leave offerings of seeds, fruit, flowers, and carefully prepared meals. Many traditions prohibit the unnecessary destruction of plants and animals near sacred sites.",
+          "Seasonal festivals dedicated to Thalen mark the changing of the weather and the beginning of planting, harvesting, and migration periods."
+        ]
+      },
+      {
+        "heading": "Personality and Legends",
+        "paragraphs": [
+          "Thalen is often described as wild, unpredictable, and fiercely protective of the natural world. He is not considered particularly interested in mortal politics or the concerns of individual kingdoms.",
+          "Legends portray him as capable of great generosity toward those who respect nature, but equally capable of terrible retaliation against those who attempt to dominate it. While he does not necessarily oppose settlements, legends frequently describe him punishing those who take from the land without consideration for its continued survival.",
+          "Some stories describe Thalen appearing as an ordinary animal or traveler, testing whether mortals understand that the wilderness does not exist solely for their benefit."
+        ]
+      }
+    ],
+    "related": ["aurelia", "morrigan", "cova", "ordan", "aisla", "the-last-king"]
+  },
+  {
+    "id": "cova",
+    "title": "Cova",
+    "category": "The Old Powers",
+    "tags": ["deity", "goddess", "old powers", "fortune", "luck", "chance"],
+    "summary": "Cova, known as the Lady of Fortune, is one of the Seven Old Powers and the goddess of luck, chance, opportunity, probability, and travel.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Cova, known as the Lady of Fortune, is one of the Seven Old Powers. She governs luck, chance, opportunity, probability, and travel. Her influence is commonly invoked by those who take risks or venture into uncertain circumstances.",
+          "Cova is regarded as one of the more unpredictable members of the pantheon. Her worshippers believe that fortune is neither inherently good nor evil, but a force that can change the course of an individual's life in an instant."
+        ]
+      },
+      {
+        "heading": "Depictions and Symbols",
+        "paragraphs": [
+          "Cova is frequently depicted as a smiling woman dressed in elaborate traveling clothes, sometimes carrying a coin, a set of dice, or a walking staff. Her appearance varies considerably between regions.",
+          "Her principal symbol is a golden coin bearing a star on either side."
+        ]
+      },
+      {
+        "heading": "Worship and Followers",
+        "paragraphs": [
+          "Her shrines are common in marketplaces, ports, inns, and along major roads.",
+          "Offerings often include coins, dice, playing cards, or small objects carried on journeys. Some travelers flip a coin before departing and dedicate the result to Cova.",
+          "Her followers are generally encouraged to embrace opportunity while accepting that good fortune cannot be guaranteed."
+        ]
+      },
+      {
+        "heading": "Personality and Legends",
+        "paragraphs": [
+          "Cova is commonly described as playful, mischievous, curious, and fascinated by mortal choices. She is said to enjoy unexpected outcomes and to dislike individuals who believe they can control every aspect of their lives.",
+          "Many legends describe her appearing in disguise to offer mortals an opportunity that may lead to either extraordinary success or complete disaster."
+        ]
+      }
+    ],
+    "related": ["aurelia", "morrigan", "thalen", "ordan", "aisla", "the-last-king"]
+  },
+  {
+    "id": "ordan",
+    "title": "Ordan",
+    "category": "The Old Powers",
+    "tags": ["deity", "god", "old powers", "oaths", "justice", "law"],
+    "summary": "Ordan, known as the Keeper of Oaths, is one of the Seven Old Powers and the god of justice, law, loyalty, promises, and responsibility.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Ordan, known as the Keeper of Oaths, is one of the Seven Old Powers. He governs justice, law, loyalty, promises, and personal responsibility. His influence is particularly significant in matters involving contracts, sworn agreements, and the obligations between individuals and institutions.",
+          "Ordan is commonly regarded as a stern but principled deity. His followers believe that society depends upon the ability of individuals to trust one another and honor their commitments."
+        ]
+      },
+      {
+        "heading": "Depictions and Symbols",
+        "paragraphs": [
+          "Ordan is most commonly depicted as an armored figure carrying a sword and a set of balanced scales.",
+          "His principal symbol is a golden scale crossed by an iron sword."
+        ]
+      },
+      {
+        "heading": "Worship and Followers",
+        "paragraphs": [
+          "His temples often contain public oath chambers where individuals may swear formal promises and confessionals for those hoping to be relieved of sin.",
+          "Followers commonly place their hands upon a sacred book or ceremonial blade when making an important vow. Breaking a promise made in Ordan's name is considered a serious spiritual offense.",
+          "His clergy frequently serve as legal advisors, mediators, and witnesses to important agreements."
+        ]
+      },
+      {
+        "heading": "Personality and Legends",
+        "paragraphs": [
+          "Ordan is described as disciplined, principled, and uncompromising. He is believed to value responsibility above personal convenience and to regard broken promises as a serious failure of character.",
+          "Some legends portray him as merciless when enforcing an oath, even when the person who made it has changed or circumstances have become impossible.",
+          "Other stories emphasize his willingness to defend the powerless against rulers who misuse the law. These conflicting traditions have made Ordan a subject of considerable debate among religious and legal scholars."
+        ]
+      }
+    ],
+    "related": ["aurelia", "morrigan", "thalen", "cova", "aisla", "the-last-king"]
+  },
+  {
+    "id": "aisla",
+    "title": "Aisla",
+    "category": "The Old Powers",
+    "tags": ["deity", "goddess", "old powers", "dreams", "prophecy", "imagination"],
+    "summary": "Aisla, known as the Weaver of Dreams, is one of the Seven Old Powers and the goddess of dreams, prophecy, imagination, inspiration, and possibility.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Aisla, known as the Weaver of Dreams, is one of the Seven Old Powers. She governs dreams, prophecy, imagination, inspiration, and possibility. Her influence is associated with the unseen worlds created by the mind and the potential futures that have yet to occur.",
+          "Aisla is often regarded as the most mysterious of the Seven Old Powers. Her followers believe that dreams may reveal truths that cannot be understood through ordinary waking thought, although not every dream is considered prophetic."
+        ]
+      },
+      {
+        "heading": "Depictions and Symbols",
+        "paragraphs": [
+          "Aisla is commonly depicted as a graceful figure surrounded by drifting stars, ribbons, or threads of light. Her clothing is often illustrated as changing color depending on the perspective of the viewer.",
+          "Her principal symbol is a crescent moon surrounded by seven stars."
+        ]
+      },
+      {
+        "heading": "Worship and Followers",
+        "paragraphs": [
+          "Her temples often include quiet sleeping chambers, observatories, libraries, and spaces for meditation.",
+          "Followers sometimes keep dream journals or leave written accounts of significant visions at her shrines. Some traditions encourage creative offerings, including paintings, poems, songs, and stories.",
+          "Her clergy are often consulted when individuals experience recurring dreams or visions that appear to carry unusual significance."
+        ]
+      },
+      {
+        "heading": "Personality and Legends",
+        "paragraphs": [
+          "Aisla is generally described as curious, whimsical, and difficult to understand. She is believed to communicate through symbols, riddles, and dreams rather than direct statements.",
+          "Legends describe her visiting sleeping mortals to show them possibilities they would never have considered while awake. These visions are sometimes inspiring and sometimes deeply unsettling."
+        ]
+      }
+    ],
+    "related": ["aurelia", "morrigan", "thalen", "cova", "ordan", "the-last-king"]
+  },
+  {
+    "id": "the-last-king",
+    "title": "The Last King",
+    "category": "The Old Powers",
+    "tags": ["deity", "god", "old powers", "endings", "finality", "death"],
+    "summary": "The Last King is one of the Seven Old Powers and the god of endings, finality, completion, and the passage beyond the end of existence.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "The Last King is one of the Seven Old Powers and the deity associated with endings, finality, completion, and the passage beyond existence. Unlike the other members of the pantheon, he is rarely addressed by a personal name or depicted with a conventional divine title.",
+          "To his followers, an ending is not inherently a tragedy; it is the conclusion that gives meaning to everything that came before."
+        ]
+      },
+      {
+        "heading": "Depictions and Symbols",
+        "paragraphs": [
+          "The Last King is commonly depicted as an ancient monarch wearing a dark crown and simple robes. His face is often obscured, or illustrated as that of an elderly figure whose expression cannot be clearly understood.",
+          "His principal symbol is a black crown resting upon an extinguished candle.",
+          "Unlike the elaborate iconography of other deities, his statues and shrines are frequently simple and unadorned, easily overlooked."
+        ]
+      },
+      {
+        "heading": "Worship and Followers",
+        "paragraphs": [
+          "His shrines are commonly found in cemeteries, abandoned settlements, and places without bearings.",
+          "His followers often observe moments of silence at the conclusion of important events. Some traditions include extinguishing a candle to mark the completion of a funeral, a long journey, or a period of mourning.",
+          "His clergy frequently assist individuals who are struggling to accept the end of a relationship, a political era, or a personal chapter of their lives."
+        ]
+      },
+      {
+        "heading": "Personality and Legends",
+        "paragraphs": [
+          "The Last King is described as quiet, ancient, and impartial. He is neither cruel nor merciful, but impartial to what is before him.",
+          "Legends portray him as a patient observer who rarely intervenes in mortal affairs.",
+          "One recurring tradition claims that the Last King knows the ending of everything, but there is nothing to confirm that as of now."
+        ]
+      }
+    ],
+    "related": ["aurelia", "morrigan", "thalen", "cova", "ordan", "aisla"]
+  },
 ]

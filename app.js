@@ -40,10 +40,19 @@
   }
 
   function categories() {
-    const map = new Map();
-    state.articles.forEach(article => map.set(article.category, (map.get(article.category) || 0) + 1));
-    return [...map.entries()].sort((a, b) => a[0].localeCompare(b[0]));
-  }
+  const counts = new Map();
+
+  state.articles.forEach((article) => {
+    counts.set(article.category, (counts.get(article.category) || 0) + 1);
+  });
+
+  return [...counts.entries()].sort((a, b) => {
+    if (a[0] === "The World") return -1;
+    if (b[0] === "The World") return 1;
+
+    return a[0].localeCompare(b[0]);
+  });
+}
 
   function renderHome() {
     const featured = state.articles.slice(0, 3);

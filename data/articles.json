@@ -3,113 +3,433 @@
     "id": "argentum",
     "title": "Argentum",
     "category": "The Seven Regions",
-    "tags": ["region", "geography", "argentum"],
-    "summary": "An overview of Argentum, one of the Seven Regions of Everwyn.",
+    "tags": ["region", "geography", "politics", "culture", "argentum"],
+    "summary": "A historically significant region of Everwyn known for its established institutions, traditional customs, and influential political history.",
     "sections": [
       {
         "heading": "Overview",
         "paragraphs": [
-          "Argentum is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+          "Argentum is a historically significant region of Everwyn, known for its established institutions, traditional customs, and influential political history.",
+          "Its landscapes include rolling hills, fertile farmland, temperate forests, and picturesque countryside. Settlements range from small agricultural villages to prosperous towns and heavily populated cities.",
+          "Argentum is often regarded as one of the continent's traditional centers of political and cultural influence."
+        ]
+      },
+      {
+        "heading": "Geography and Environment",
+        "paragraphs": [
+          "Argentum possesses a relatively temperate climate, supporting extensive agriculture and established settlements. Its fertile lands make it an important agricultural contributor to the continental economy."
+        ]
+      },
+      {
+        "heading": "Culture and Society",
+        "paragraphs": [
+          "Argentian society places considerable importance on tradition and civic responsibility.",
+          "Family heritage and social standing can influence an individual's reputation, particularly among established noble families."
+        ]
+      },
+      {
+        "heading": "Government and Politics",
+        "paragraphs": [
+          "Argentum is governed by a hereditary monarchy whose royal bloodline descends directly from the First King of Everwyn through an unbroken hereditary line.",
+          "The monarchy maintains a strong connection to the continent's historical foundations. Its authority is closely associated with the legacy of the First King and the former unified Kingdom of Everwyn.",
+          "Although the unified kingdom dissolved during the Age of Fracture, the royal lineage survived. Argentum retained a monarchical government, preserving a political institution that predates the establishment of the Seven Regions as independent territories."
+        ]
+      },
+      {
+        "heading": "Historical Significance",
+        "paragraphs": [
+          "During the First Reign (0–200), the First King united the seven territories under a centralized monarchy.",
+          "Following his death in year 200, a succession crisis led to the dissolution of the unified Kingdom. By year 225, the seven territories had become formally recognized as independent regions under the Treaty of Seven Crowns.",
+          "Argentum's monarchy represents a surviving connection to this earlier period of continental history."
+        ]
+      },
+      {
+        "heading": "Political Influence",
+        "paragraphs": [
+          "Although the monarch of Argentum does not possess authority over the other six regions, the royal family retains considerable historical prestige.",
+          "Its connection to the First King gives Argentum a unique position in continental diplomacy. The monarchy may be regarded as a symbolic representative of Everwyn's shared history, even though its political authority extends only over Argentum."
+        ]
+      },
+      {
+        "heading": "Economy and Trade",
+        "paragraphs": [
+          "Exports:",
+          "- Grain and agricultural products.",
+          "- Livestock and dairy.",
+          "- Textiles and finished clothing.",
+          "- Wine and other cultivated goods.",
+          "- Educational and professional services."
+        ]
+      },
+      {
+        "heading": "Regional Identity",
+        "paragraphs": [
+          "Argentum represents the established traditions of Everwyn."
         ]
       }
     ],
-    "related": ["everwyn", "the-seven-regions"]
+    "related": ["everwyn", "aurun", "cupri", "galena", "ferron", "mercurium", "plata"]
   },
   {
     "id": "aurun",
     "title": "Aurun",
     "category": "The Seven Regions",
-    "tags": ["region", "geography", "aurun"],
-    "summary": "An overview of Aurun, one of the Seven Regions of Everwyn.",
+    "tags": ["region", "geography", "politics", "culture", "aurun"],
+    "summary": "A region characterized by expansive deserts, sun-drenched landscapes, ancient settlements, and a strong tradition of scholarship.",
     "sections": [
       {
         "heading": "Overview",
         "paragraphs": [
-          "Aurun is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+          "Aurun is a region characterized by its expansive deserts, sun-drenched landscapes, and ancient settlements.",
+          "Its cities are often constructed around rivers, underground water systems, and fertile oases."
+        ]
+      },
+      {
+        "heading": "Geography and Environment",
+        "paragraphs": [
+          "Aurun's landscapes include:",
+          "- Vast sand deserts and dunes.",
+          "- Rocky plateaus and sandstone formations.",
+          "- Fertile river valleys.",
+          "- Arid grasslands and scrublands.",
+          "Despite its association with desert landscapes, Aurun is not exclusively arid. Its river systems and varied elevations support several biomes."
+        ]
+      },
+      {
+        "heading": "Culture and Society",
+        "paragraphs": [
+          "Hospitality is an important part of Auruni culture. Guests and travelers are traditionally welcomed with food and shelter.",
+          "Aurun has a strong tradition of scholarship, particularly in mathematics.",
+          "Its architectural traditions emphasize intricate decorative patterns, courtyards, shaded passageways, and buildings designed to remain comfortable in warm climates."
+        ]
+      },
+      {
+        "heading": "Government and Politics",
+        "paragraphs": [
+          "Aurun is governed through a representative political system in which elected officials share authority with established scholarly and civic institutions.",
+          "Universities, historical societies, and learned organizations hold considerable influence over public policy."
+        ]
+      },
+      {
+        "heading": "Economy and Trade",
+        "paragraphs": [
+          "Exports:",
+          "- Glasswork and ceramics.",
+          "- Spices and cultivated goods.",
+          "- Textiles and dyes.",
+          "- Scholarly works and specialized instruments."
+        ]
+      },
+      {
+        "heading": "Regional Identity",
+        "paragraphs": [
+          "Aurun represents the relationship between knowledge and civilization."
         ]
       }
     ],
-    "related": ["everwyn", "the-seven-regions"]
+    "related": ["everwyn", "argentum", "cupri", "galena", "ferron", "mercurium", "plata"]
   },
   {
     "id": "cupri",
     "title": "Cupri",
     "category": "The Seven Regions",
-    "tags": ["region", "geography", "cupri"],
-    "summary": "An overview of Cupri, one of the Seven Regions of Everwyn.",
+    "tags": ["region", "geography", "politics", "culture", "cupri"],
+    "summary": "A commercially influential region with extensive coastlines, maritime trade, and a cosmopolitan culture.",
     "sections": [
       {
         "heading": "Overview",
         "paragraphs": [
-          "Cupri is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+          "Cupri is a commercially influential region with extensive coastlines and a long history of maritime trade.",
+          "Its settlements are accustomed to the arrival of foreign merchants, travelers, sailors, and diplomats. Cupri has developed a cosmopolitan culture in which different cultures frequently intersect.",
+          "Its ports serve as important commercial connections between the Seven Regions."
+        ]
+      },
+      {
+        "heading": "Geography and Environment",
+        "paragraphs": [
+          "Cupri's landscapes include:",
+          "- Coastlines and sandy beaches.",
+          "- Natural harbors and rocky cliffs.",
+          "- Islands and archipelagos.",
+          "- Temperate forests and rolling hills.",
+          "Its maritime geography makes it particularly well suited to shipbuilding, fishing, and international commerce within Everwyn."
+        ]
+      },
+      {
+        "heading": "Culture and Society",
+        "paragraphs": [
+          "Cuprian society is generally outward-facing, with a strong appreciation for travel, trade, and cultural exchange.",
+          "Its cities are lively places, often characterized by busy marketplaces, public festivals, taverns, and waterfront establishments. Craftsmanship is particularly valued, especially in shipbuilding, navigation, and the production of luxury goods.",
+          "Because of its commercial importance, Cupri has a substantial population of foreign merchants and permanent expatriate communities."
+        ]
+      },
+      {
+        "heading": "Government and Politics",
+        "paragraphs": [
+          "Cupri is governed through a confederation of maritime cities and commercial territories, each maintaining a degree of local autonomy.",
+          "Representatives from major ports, merchant organizations, and coastal communities participate in regional decision-making. Trade agreements, maritime security, shipping regulations, and the distribution of commercial wealth are recurring political concerns."
+        ]
+      },
+      {
+        "heading": "Economy and Trade",
+        "paragraphs": [
+          "Exports:",
+          "- Ships and maritime equipment.",
+          "- Fish and other seafood.",
+          "- Imported and locally produced luxury goods.",
+          "- Fine textiles and crafted objects."
+        ]
+      },
+      {
+        "heading": "Regional Identity",
+        "paragraphs": [
+          "Cupri represents movement, opportunity, and cultural exchange. It is a region where ideas constantly travel between distant communities."
         ]
       }
     ],
-    "related": ["everwyn", "the-seven-regions"]
+    "related": ["everwyn", "argentum", "aurun", "galena", "ferron", "mercurium", "plata"]
   },
   {
     "id": "galena",
     "title": "Galena",
     "category": "The Seven Regions",
-    "tags": ["region", "geography", "galena"],
-    "summary": "An overview of Galena, one of the Seven Regions of Everwyn.",
+    "tags": ["region", "geography", "politics", "culture", "galena"],
+    "summary": "A region distinguished by expansive natural landscapes, rural communities, rich folklore, and diverse ecosystems.",
     "sections": [
       {
         "heading": "Overview",
         "paragraphs": [
-          "Galena is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+          "Galena is a region distinguished by its expansive natural landscapes.",
+          "Although it contains established towns and cities, much of Galena remains relatively rural. Its communities often maintain close relationships with the surrounding environment, relying on natural resources.",
+          "The region has a particularly rich tradition of folklore, oral storytelling, and knowledge concerning the natural world."
+        ]
+      },
+      {
+        "heading": "Geography and Environment",
+        "paragraphs": [
+          "Galena contains a collection of natural environments:",
+          "- Dense temperate forests.",
+          "- Tropical and subtropical rainforests.",
+          "- Extensive wetlands and marshes.",
+          "- Mountainous forests and highlands.",
+          "Its varied ecosystems support an exceptionally diverse collection of plant and animal species."
+        ]
+      },
+      {
+        "heading": "Culture and Society",
+        "paragraphs": [
+          "Galenean culture places considerable importance on community, local traditions, and environmental knowledge.",
+          "Many settlements maintain longstanding agricultural and craft traditions. Herbalists, apothecaries, natural philosophers, and traditional healers are respected members of society."
+        ]
+      },
+      {
+        "heading": "Government and Politics",
+        "paragraphs": [
+          "Galena is governed through a regional council composed of representatives from its settlements and local communities.",
+          "Disagreements concerning land ownership, forestry, agriculture, and resource extraction are often sources of political tension."
+        ]
+      },
+      {
+        "heading": "Economy and Trade",
+        "paragraphs": [
+          "Exports:",
+          "- Medicinal herbs and botanical ingredients.",
+          "- Timber and wood products.",
+          "- Rare plants and specialized materials.",
+          "- Herbal remedies and alchemical ingredients."
+        ]
+      },
+      {
+        "heading": "Regional Identity",
+        "paragraphs": [
+          "Galena represents the natural character of Everwyn. Its people have a longstanding relationship with the landscapes that surround them."
         ]
       }
     ],
-    "related": ["everwyn", "the-seven-regions"]
+    "related": ["everwyn", "argentum", "aurun", "cupri", "ferron", "mercurium", "plata"]
   },
   {
     "id": "ferron",
     "title": "Ferron",
     "category": "The Seven Regions",
-    "tags": ["region", "geography", "ferron"],
-    "summary": "An overview of Ferron, one of the Seven Regions of Everwyn.",
+    "tags": ["region", "geography", "politics", "culture", "ferron"],
+    "summary": "A region characterized by rugged mountain ranges, mineral-rich landscapes, and communities with strong traditions of craftsmanship and industry.",
     "sections": [
       {
         "heading": "Overview",
         "paragraphs": [
-          "Ferron is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+          "Ferron is a region characterized by rugged terrain: extensive mountain ranges, deep valleys, and mineral-rich landscapes.",
+          "Its settlements are often constructed around valuable natural resources."
+        ]
+      },
+      {
+        "heading": "Geography and Environment",
+        "paragraphs": [
+          "Ferron's geography includes:",
+          "- Towering mountain ranges.",
+          "- Snow-covered territories and tundra.",
+          "- Rocky plateaus and mineral-rich landscapes.",
+          "- Underground cave systems.",
+          "The region's varied elevation creates substantial differences in climate and environmental conditions."
+        ]
+      },
+      {
+        "heading": "Culture and Society",
+        "paragraphs": [
+          "Ferronian culture places value on craftsmanship, practical knowledge, perseverance, and community responsibility.",
+          "Apprenticeships and specialized trades are important parts of professional life.",
+          "Many communities maintain strong local identities, with traditions passed between generations of craftspeople."
+        ]
+      },
+      {
+        "heading": "Government and Politics",
+        "paragraphs": [
+          "Ferron is governed through a confederation of influential clans, industrial settlements, and mining communities.",
+          "Each clan maintains authority over its own territories and internal affairs, while representatives gather to negotiate regional laws and shared responsibilities."
+        ]
+      },
+      {
+        "heading": "Economy and Trade",
+        "paragraphs": [
+          "Exports:",
+          "- Iron and other metals.",
+          "- Refined ores and mineral products.",
+          "- Tools and machinery.",
+          "- Weapons and armor.",
+          "- Stone and construction materials.",
+          "- Specialized engineering equipment."
+        ]
+      },
+      {
+        "heading": "Regional Identity",
+        "paragraphs": [
+          "Ferron represents the industrious and practical character of Everwyn."
         ]
       }
     ],
-    "related": ["everwyn", "the-seven-regions"]
+    "related": ["everwyn", "argentum", "aurun", "cupri", "galena", "mercurium", "plata"]
   },
   {
     "id": "mercurium",
     "title": "Mercurium",
     "category": "The Seven Regions",
-    "tags": ["region", "geography", "mercurium"],
-    "summary": "An overview of Mercurium, one of the Seven Regions of Everwyn.",
+    "tags": ["region", "geography", "politics", "culture", "mercurium"],
+    "summary": "An Arctic region recognized for its academic institutions, technological development, and research into magic and the natural sciences.",
     "sections": [
       {
         "heading": "Overview",
         "paragraphs": [
-          "Mercurium is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+          "Mercurium is a region recognized for its academic institutions and technological development.",
+          "Its cities are home to universities, libraries, and specialized institutions dedicated to the study of magic and the natural sciences."
+        ]
+      },
+      {
+        "heading": "Geography and Environment",
+        "paragraphs": [
+          "Mercurium's geography is characterized by its cold Arctic climate. The region includes:",
+          "- Snow-covered tundra and frozen plains.",
+          "- Towering glaciers and extensive ice fields.",
+          "- Frozen lakes, rivers, and coastal waters.",
+          "- Snow-covered mountain ranges and rugged, icebound highlands.",
+          "- Scattered evergreen woodlands in its southern territories.",
+          "Mercurium's extreme climate creates long, severe winters and brief summers, resulting in significant seasonal changes across the region."
+        ]
+      },
+      {
+        "heading": "Culture and Society",
+        "paragraphs": [
+          "Mercurian society places considerable importance on education, research, experimentation, and intellectual achievement.",
+          "Academic institutions are influential cultural establishments, and scholarly accomplishments can provide considerable social standing."
+        ]
+      },
+      {
+        "heading": "Government and Politics",
+        "paragraphs": [
+          "Mercurium maintains an independent government organized around a central governing council responsible for coordinating the region's settlements and protecting its inhabitants.",
+          "Because of Mercurium's harsh Arctic environment and geographically isolated communities, local authorities possess considerable autonomy. The central government oversees shared resources, territorial security, supply distribution, and relations with foreign merchants.",
+          "The preservation of settlements through prolonged winters, access to essential resources, and the management of remote territories are major political priorities."
+        ]
+      },
+      {
+        "heading": "Economy and Trade",
+        "paragraphs": [
+          "Exports:",
+          "- Enchanted objects and magical instruments.",
+          "- Scientific equipment.",
+          "- Books and scholarly materials.",
+          "- Alchemical products.",
+          "- Specialized machinery.",
+          "- Magical services and professional expertise."
+        ]
+      },
+      {
+        "heading": "Regional Identity",
+        "paragraphs": [
+          "Mercurium represents the intellectual and inventive spirit of Everwyn."
         ]
       }
     ],
-    "related": ["everwyn", "the-seven-regions"]
+    "related": ["everwyn", "argentum", "aurun", "cupri", "galena", "ferron", "plata"]
   },
   {
     "id": "plata",
     "title": "Plata",
     "category": "The Seven Regions",
-    "tags": ["region", "geography", "plata"],
-    "summary": "An overview of Plata, one of the Seven Regions of Everwyn.",
+    "tags": ["region", "geography", "politics", "culture", "plata"],
+    "summary": "A culturally vibrant region known for its artistic traditions, lively communities, and diverse landscapes.",
     "sections": [
       {
         "heading": "Overview",
         "paragraphs": [
-          "Plata is one of the Seven Regions of Everwyn. Its geography, settlements, culture, and history distinguish it as a region of the known world."
+          "Plata is a culturally vibrant region known for its artistic traditions and lively communities.",
+          "Its settlements range from picturesque coastal towns and agricultural villages to prosperous cities."
+        ]
+      },
+      {
+        "heading": "Geography and Environment",
+        "paragraphs": [
+          "Plata contains landscapes such as:",
+          "- Warm coastal environments.",
+          "- Tropical and subtropical islands.",
+          "- Fertile valleys and agricultural plains.",
+          "- Temperate forests.",
+          "Its varied geography supports numerous local industries."
+        ]
+      },
+      {
+        "heading": "Culture and Society",
+        "paragraphs": [
+          "Platan culture places considerable importance on artistic expression rather than tradition. Music, dance, theater, visual arts, and craftsmanship are prominent parts of everyday life.",
+          "Artisans and performers enjoy considerable recognition, and many settlements maintain distinctive architectural and artistic styles."
+        ]
+      },
+      {
+        "heading": "Government and Politics",
+        "paragraphs": [
+          "Plata is governed by a Directorial Council consisting of several elected officials who share executive authority over the region. Each councilor oversees a particular area of regional administration, with leadership responsibilities distributed rather than concentrated in a single office.",
+          "Political disagreements frequently concern the allocation of public funding and the extent to which the government should be involved in artistic and cultural institutions."
+        ]
+      },
+      {
+        "heading": "Economy and Trade",
+        "paragraphs": [
+          "Exports:",
+          "- Fine textiles and clothing.",
+          "- Jewelry and decorative crafts.",
+          "- Ceramics and artistic goods.",
+          "- Agricultural products.",
+          "- Seafood and coastal goods.",
+          "- Musical instruments and specialty crafts."
+        ]
+      },
+      {
+        "heading": "Regional Identity",
+        "paragraphs": [
+          "Plata represents the artistic and expressive character of Everwyn. Its people take pride in their cultural heritage, creative traditions, and strong community relationships."
         ]
       }
     ],
-    "related": ["everwyn", "the-seven-regions"]
+    "related": ["everwyn", "argentum", "aurun", "cupri", "galena", "ferron", "mercurium"]
   },
    {
     "id": "everwyn",

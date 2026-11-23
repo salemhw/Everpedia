@@ -173,26 +173,27 @@
     ],
     "related": ["the-first-king", "council-of-the-seven"]
   },
-  
+
 {
   "id": "the-first-reign",
-  "title": "The First Reign (0–78)",
+  "title": "The First Reign (0–200)",
   "category": "History",
   "startYear": 0,
   "tags": ["history", "first reign", "first king", "unification", "monarchy", "royalty"],
-  "summary": "The beginning of recorded history in Everwyn, marked by the rise of the First King and the establishment of a unified kingdom.",
+  "summary": "The beginning of recorded history in Everwyn, marked by the rise of the First King and the establishment of the unified Kingdom of Everwyn.",
   "sections": [
     {
       "heading": "Overview",
       "paragraphs": [
-        "The First Reign marks the beginning of recorded history in Everwyn. During this period, the First King established his authority over the territories and brought the entirety of Everwyn under a single crown.",
-        "His reign saw the establishment of a centralized monarchy, the creation of royal institutions, and the introduction of unified laws and administrative systems."
+        "The First Reign marks the beginning of recorded history in Everwyn. During this period, the First King established his authority over the seven territories and brought the entirety of Everwyn under a single crown.",
+        "His reign saw the establishment of a centralized monarchy, the creation of royal institutions, and the introduction of unified laws and administrative systems. The kingdom experienced significant political consolidation, economic expansion, and institutional development under his rule.",
+        "The First Reign came to an end in year 200 with the death of the First King. His passing left the kingdom without the singular authority that had held its territories together, creating uncertainty over royal succession and the future of the monarchy."
       ]
     },
     {
       "heading": "The Rise of the First King",
       "paragraphs": [
-        "The emergence of the first recognized monarch of Everwyn, whose military campaigns and political influence brought the territories under his authority."
+        "The emergence of the first recognized monarch of Everwyn, whose military campaigns and political influence brought the seven territories under his authority."
       ]
     },
     {
@@ -218,99 +219,65 @@
       "paragraphs": [
         "The establishment of the kingdom's capital as the political, administrative, and cultural center of Everwyn. The city became the seat of the monarchy and the location of the royal palace."
       ]
-    }
-  ],
-  "related": ["everwyn", "the-first-king", "kingdoms-and-factions"]
-},
-{
-  "id": "kingdom-of-everwyn",
-  "title": "The Kingdom of Everwyn (78–200)",
-  "category": "History",
-  "startYear": 78,
-  "tags": ["history", "kingdom", "monarchy", "royalty", "royal succession", "academy", "trade", "infrastructure"],
-  "summary": "The continuation of the unified monarchy following the First King's reign, characterized by political consolidation, economic expansion, and institutional development.",
-  "sections": [
-    {
-      "heading": "Overview",
-      "paragraphs": [
-        "Under the First King's reign, Everwyn continued as a unified monarchy. This period was characterized by political consolidation, economic expansion, and the development of institutions that would govern the kingdom for generations.",
-        "The royal government invested heavily in infrastructure, education, and commerce, connecting distant settlements and encouraging the growth of a shared national identity."
-      ]
     },
     {
-      "heading": "The Expansion of the Kingdom",
+      "heading": "The Death of the First King",
       "paragraphs": [
-        "A period of territorial and economic growth during which the monarchy extended its influence into previously undeveloped settlements and established new administrative districts throughout Everwyn."
-      ]
-    },
-    {
-      "heading": "The Establishment of the Royal Academy",
-      "paragraphs": [
-        "The founding of a prestigious institution dedicated to higher education, scholarship, magical studies, and the advancement of the arts and sciences. The academy became an important center of intellectual and cultural development."
-      ]
-    },
-    {
-      "heading": "The Great Royal Census",
-      "paragraphs": [
-        "The first comprehensive census of the kingdom's population, land, and resources. The undertaking provided the monarchy with detailed records of its territories and established a standardized system of taxation and civil administration."
-      ]
-    },
-    {
-      "heading": "The Construction of the King's Highway",
-      "paragraphs": [
-        "The development of an extensive network of roads connecting the capital to the kingdom's major settlements. The highway facilitated trade, travel, military transportation, and communication between distant territories."
+        "In year 200, the First King died, bringing an end to his lengthy reign and the political stability that had sustained the unified monarchy. His death created a power vacuum and initiated a succession crisis that would ultimately lead to the dissolution of the kingdom."
       ]
     }
   ],
-  "related": ["the-first-reign", "the-first-king", "everwyn"]
+  "related": ["everwyn", "the-first-king", "age-of-fracture"]
 },
+
 {
   "id": "age-of-fracture",
   "title": "The Age of Fracture (200–225)",
   "category": "History",
   "startYear": 200,
   "tags": ["history", "age of fracture", "succession crisis", "dissolution", "sevenfold division", "treaty"],
-  "summary": "The collapse of the unified Kingdom of Everwyn and the establishment of seven independent territories.",
+  "summary": "The political crisis following the death of the First King, culminating in the dissolution of the unified Kingdom of Everwyn and the establishment of seven independent territories.",
   "sections": [
     {
       "heading": "Overview",
       "paragraphs": [
-        "The Age of Fracture began with the death of the First King and the subsequent destabilization of the unified monarchy. Disagreements over royal succession, regional autonomy, and political authority weakened the central government, resulting in growing tensions between the royal court and regional leadership.",
-        "Following years of political unrest, the former kingdom dissolved into seven independent territories. The period concluded with the formal recognition of the Seven Regions and the establishment of their respective governments."
+        "The Age of Fracture began in year 200 with the death of the First King, whose reign had maintained the unity of the Kingdom of Everwyn for two centuries. His passing left the kingdom without its founding monarch and exposed longstanding disagreements over royal succession, regional autonomy, and political authority.",
+        "The resulting instability weakened the central government as competing claims to the throne and growing regional ambitions threatened the integrity of the monarchy. Over the following twenty-five years, the royal court gradually lost its authority and the former kingdom dissolved into seven independent territories.",
+        "The period concluded in year 225 with the formal recognition of the Seven Regions and the establishment of their respective governments."
       ]
     },
     {
       "heading": "The Death of the First King",
       "paragraphs": [
-        "The death of Everwyn's founding monarch, marking the beginning of a period of political instability and uncertainty surrounding the future of the unified kingdom."
+        "In year 200, the death of Everwyn's founding monarch brought an end to the First Reign. His passing created a power vacuum within the royal government and raised immediate questions concerning the inheritance of the crown and the future of the unified kingdom."
       ]
     },
     {
       "heading": "The Succession Crisis",
       "paragraphs": [
-        "A prolonged political dispute concerning the inheritance of the royal crown. Competing claims to the throne, disagreements among the nobility, and growing regional dissatisfaction weakened the authority of the monarchy."
+        "Following the First King's death, competing claims to the royal crown emerged among the nobility and other influential figures within the kingdom. Disagreements over the rightful successor, combined with growing regional dissatisfaction, weakened the authority of the monarchy and divided the royal court."
       ]
     },
     {
       "heading": "The Dissolution of the Royal Court",
       "paragraphs": [
-        "The gradual collapse of the centralized royal administration as regional governors and noble houses withdrew their allegiance to the monarchy. Former royal institutions were divided, abandoned, or reorganized under emerging regional authorities."
+        "As the succession crisis continued, the centralized royal administration gradually lost control over the kingdom. Regional governors and noble houses increasingly asserted their independence, withdrawing their allegiance from the monarchy. Former royal institutions were divided, abandoned, or reorganized under emerging regional authorities."
       ]
     },
     {
       "heading": "The Sevenfold Division",
       "paragraphs": [
-        "The formal dissolution of the Kingdom of Everwyn and the establishment of seven independent regions. Former territorial boundaries were reorganized into [[argentum]], [[aurun]], [[cupri]], [[galena]], [[ferron]], [[mercurium]], and [[plata]]."
+        "The collapse of the royal government resulted in the formal dissolution of the Kingdom of Everwyn. Its former territories reorganized into seven independent regions: [[argentum]], [[aurun]], [[cupri]], [[galena]], [[ferron]], [[mercurium]], and [[plata]]."
       ]
     },
     {
       "heading": "The Treaty of Seven Crowns",
       "paragraphs": [
-        "A diplomatic agreement recognizing the sovereignty of the Seven Regions and establishing the foundations for peaceful relations between their respective governments. The treaty addressed territorial boundaries, political recognition, and the rights of regional rulers."
+        "In year 225, a diplomatic agreement formally recognized the sovereignty of the Seven Regions and established the foundations for peaceful relations between their respective governments. The treaty addressed territorial boundaries, political recognition, and the rights of regional rulers, marking the formal conclusion of the Age of Fracture."
       ]
     }
   ],
-  "related": ["the-first-reign", "kingdom-of-everwyn", "everwyn", "argentum", "aurun", "cupri", "galena", "ferron", "mercurium", "plata"]
+  "related": ["the-first-reign", "everwyn", "argentum", "aurun", "cupri", "galena", "ferron", "mercurium", "plata"]
 },
 {
   "id": "age-of-seven-crowns",

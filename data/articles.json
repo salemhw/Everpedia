@@ -111,70 +111,140 @@
     ],
     "related": ["everwyn", "the-seven-regions"]
   },
-  {
+   {
     "id": "everwyn",
     "title": "Everwyn",
     "category": "The World",
-    "tags": ["world", "geography", "regions", "civilization", "kingdoms", "territory"],
-    "summary": "An overview of Everwyn, its geography, regions, and the civilizations that inhabit the known world.",
+    "tags": [
+      "everwyn",
+      "continent",
+      "geography",
+      "the-world"
+    ],
+    "summary": "An overview of Everwyn, the continent comprising the known world and its seven independent regions.",
     "sections": [
       {
         "heading": "Overview",
         "paragraphs": [
-          "Everwyn is the known world, encompassing the lands, kingdoms, and territories inhabited by its many peoples. Its history and geography have shaped the rise and fall of civilizations, the formation of political powers, and the spread of religious traditions."
+          "Everwyn is a continent surrounded by vast seas and separated from the rest of the world by an unexplored expanse of fog known colloquially as the Unknown. To its inhabitants, Everwyn represents the entirety of the known world, though what may exist beyond its shores remains a mystery.",
+          "The continent is divided into seven independent regions: Argentum, Aurun, Cupri, Galena, Ferron, Mercurium, and Plata. Each possesses its own history, identity, and governing institutions."
         ]
       },
       {
         "heading": "Geography",
         "paragraphs": [
-          "The lands of Everwyn are divided into distinct regions, each with its own landscapes, settlements, and resources. Mountains, forests, rivers, and fertile territories influence the boundaries and relationships between neighboring kingdoms."
+          "Everwyn is home to an extraordinary variety of landscapes and natural environments. Its geography ranges from frozen arctic territories and snow-covered mountains to temperate forests, expansive grasslands, tropical jungles, wetlands, and vast deserts.",
+          "This geographical diversity gives rise to distinct climates, ecosystems, and natural resources throughout the continent. The environments of Everwyn are not confined to political borders, and individual regions may contain several different landscapes."
         ]
       },
       {
-        "heading": "Political Divisions",
+        "heading": "The Known World",
         "paragraphs": [
-          "Everwyn is home to numerous kingdoms and factions, each pursuing its own interests and ambitions. Their relationships are shaped by territorial disputes, alliances, inherited authority, and the influence of the Council of the Seven."
+          "Despite the existence of legends and speculation about lands beyond its borders, Everwyn remains the only continent known to its inhabitants. No confirmed contact with another continent or civilization has been established."
         ]
       }
     ],
-    "related": ["the-first-king", "council-of-the-seven", "kingdoms-and-factions"]
+    "related": [
+      "biomes",
+      "the-unknown",
+      "the-seven-regions"
+    ]
   },
   {
-    "id": "the-divine-order",
-    "title": "The Divine Order",
-    "category": "Religion",
-    "tags": ["religion", "gods", "deities", "divinity", "worship", "divine authority", "creation", "deicide"],
-    "summary": "The divine hierarchy governing the relationship between the gods, the mortal world, and the forces that shape existence.",
+    "id": "biomes",
+    "title": "Biomes",
+    "category": "The World",
+    "tags": [
+      "biomes",
+      "ecology",
+      "geography",
+      "nature"
+    ],
+    "summary": "An overview of the diverse natural environments and ecological regions found throughout Everwyn.",
     "sections": [
       {
         "heading": "Overview",
         "paragraphs": [
-          "The Divine Order is the established structure of divine authority and the relationship between the gods and the world of mortals. Its existence influences religious institutions, cultural traditions, and the understanding of power throughout Everwyn."
+          "Everwyn encompasses an exceptionally broad range of biomes, supporting an immense variety of plant and animal life. Its environments range from the frozen reaches of the arctic to the scorching expanses of the desert, with numerous ecosystems existing between these extremes.",
+          "The continent's geographical diversity plays an important role in shaping its natural resources, wildlife, climate, and the lifestyles of the communities that inhabit it."
         ]
       },
       {
-        "heading": "Divine Authority",
+        "heading": "Environmental Diversity",
         "paragraphs": [
-          "The gods occupy positions of extraordinary authority within the established order. Their influence extends beyond worship, shaping the beliefs, customs, and institutions of mortal civilizations."
+          "The known biomes of Everwyn include, but are not limited to:",
+          "- Arctic and Tundra: Frozen landscapes characterized by extremely cold temperatures, snow-covered terrain, and vegetation adapted to harsh conditions.",
+          "- Taiga and Boreal Forests: Vast woodland environments dominated by coniferous trees and long, cold winters.",
+          "- Temperate Forests: Wooded regions with distinct seasonal changes and diverse plant and animal life.",
+          "- Grasslands and Plains: Expansive open landscapes characterized by grasses, scattered vegetation, and wide horizons.",
+          "- Tropical Rainforests: Dense, humid forests with abundant rainfall, thick vegetation, and exceptionally diverse ecosystems.",
+          "- Savannas: Warm grasslands dotted with scattered trees and adapted to alternating wet and dry seasons.",
+          "- Deserts: Arid environments characterized by limited rainfall, extreme temperatures, and specialized plant and animal life.",
+          "- Wetlands and Marshes: Water-rich environments consisting of swamps, marshes, and other saturated landscapes.",
+          "- Coastal and Marine Environments: Shores, islands, reefs, and surrounding waters that support a variety of aquatic and terrestrial ecosystems."
         ]
       },
       {
-        "heading": "The Nature of Divinity",
+        "heading": "Regional Ecology",
         "paragraphs": [
-          "The nature and limitations of divine power remain subjects of religious and philosophical debate. Questions surrounding the mortality, legitimacy, and succession of the gods challenge the assumptions upon which the Divine Order rests."
+          "Biomes do not necessarily follow political boundaries. A single biome may extend across multiple regions, while individual regions may contain several different environments.",
+          "Differences in elevation, latitude, rainfall, and local geography contribute to the distribution of these ecosystems. Mountain ranges, rivers, coastlines, and other geographical features can create distinct environmental conditions within relatively small areas."
         ]
       },
       {
-        "heading": "The Threat of Deicide",
+        "heading": "Natural Resources and Wildlife",
         "paragraphs": [
-          "The possibility of killing a god represents a fundamental challenge to the established divine hierarchy. Any attempt to destroy or replace a deity threatens not only religious institutions, but the balance of power between the divine and mortal worlds."
+          "The diversity of Everwyn's biomes supports a wide variety of natural resources and wildlife. Different environments provide unique materials, vegetation, and habitats, influencing regional industries, agriculture, trade, and settlement.",
+          "The continent's ecological diversity also means that creatures and plant species may be highly specialized to the environments in which they live."
         ]
       }
     ],
-    "related": ["the-first-king", "council-of-the-seven"]
+    "related": [
+      "everwyn",
+      "the-unknown"
+    ]
   },
-
-{
+  {
+    "id": "the-unknown",
+    "title": "The Unknown",
+    "category": "The World",
+    "tags": [
+      "the-unknown",
+      "fog",
+      "ocean",
+      "exploration",
+      "mystery"
+    ],
+    "summary": "The unexplored expanse of fog beyond Everwyn's visible seas, from which no ship has ever returned.",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "The Unknown is the name given to the vast expanse of fog lying beyond the visible seas surrounding Everwyn. It marks the furthest boundary of the known world, obscuring whatever may exist beyond the continent's waters.",
+          "Unlike an impassable barrier, the fog can be entered. Ships have sailed into it, but none have ever returned."
+        ]
+      },
+      {
+        "heading": "The Lost Expeditions",
+        "paragraphs": [
+          "Throughout recorded history, vessels have ventured into the fog in search of distant lands. None have been documented returning to the continent.",
+          "The fate of these ships and their crews remains unknown. Whether they reached distant shores, became lost, or encountered something beyond the understanding of Everwyn's inhabitants has never been established."
+        ]
+      },
+      {
+        "heading": "Legends and Speculation",
+        "paragraphs": [
+          "The Unknown has inspired countless theories and stories. Some believe that other continents and civilizations exist beyond the fog, while others consider it the natural boundary of the world.",
+          "Without reliable accounts from beyond the fog, these possibilities remain speculation. The Unknown is one of the greatest unanswered questions in Everwyn's history."
+        ]
+      }
+    ],
+    "related": [
+      "everwyn",
+      "biomes"
+    ]
+  },
+  {
   "id": "the-first-reign",
   "title": "The First Reign (0–200)",
   "category": "History",
